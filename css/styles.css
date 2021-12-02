@@ -1,0 +1,69 @@
+.banner {
+  background-image: url("../img/tecnologia.jpg");
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  opacity: 2;
+}
+
+.titulo {
+  font-weight: bold;
+  color: rgb(61, 54, 54);
+  text-decoration: none;
+  font-size: 38px;
+  margin-top: 100px;
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.text-center {
+  font-weight: bold;
+  color: white;
+  font-size: 30px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.p {
+  font-weight: bold;
+  color: rgb(20, 19, 19);
+  text-align: justify;
+}
+.climas {
+  margin-top: 50px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.climas h2 {
+  font-size: 25px;
+  font-weight: 400;
+}
+
+.btn {
+  margin-top: 15px;
+  text-decoration: none;
+  padding: 7px 14px;
+  border-radius: 10px;
+  margin-left: 40px;
+}
+
+.input-c {
+  text-decoration: none;
+  border-radius: 10px;
+  margin-top: 1%;
+  border: double white;
+}
+
+.selector {
+  margin-top: 1%;
+  margin-left: 15px;
+  text-decoration: none;
+  border-radius: 10px;
+  border: double white;
+}
+
+.labeles {
+  font-size: 17px;
+  font-weight: bold;
+}
