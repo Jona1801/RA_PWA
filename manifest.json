@@ -2,14 +2,14 @@
     "name": "Aplicaciones Web Progresivas",
     "short_name": "Resultado de Aprendizaje",
     "theme_color": "#c3e7f5",
-    "background-color": "#c3e7f5",
+    "background_color": "#c3e7f5",
     "display": "standalone",
     "orientation": "portrait",
     "scope": "./",
     "start_url": "./",
     "icons": [
         {
-            "src": "./img/icono.png",
+            "src": "img/icono.png",
             "type": "image/png",
             "size" : "512*512 "
         }
